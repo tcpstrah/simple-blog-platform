@@ -1,1 +1,1 @@
- # Simple Blog Platform
+# Simple Blog Platform
